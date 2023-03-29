@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWXB47I7EK4R9JwWhB0s3NoeEhdtBD7OrL2UMY9uBpFSHARBfgp14FdGaaAo3Gf7pEzj3DOPNkl37fmOJC2WKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\Shalugin\\tests\\CV19\\CV19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
